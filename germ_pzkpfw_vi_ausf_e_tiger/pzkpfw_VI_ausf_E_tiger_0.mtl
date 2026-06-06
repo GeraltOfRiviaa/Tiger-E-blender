@@ -1,0 +1,48 @@
+newmtl mg_34
+	illum 3
+	map_Kd textures/mg_34_c.dds
+	map_bump textures/mg_34_n.dds
+newmtl pzkpfw_vi_ausf_e_tiger_body_ger_camo_dunkelgelb
+	illum 3
+	map_Kd textures/pzkpfw_vi_ausf_e_tiger_body_c.dds
+	map_bump textures/pzkpfw_vi_ausf_e_tiger_body_n.dds
+newmtl pzkpfw_vi_ausf_e_tiger_turret_ger_camo_dunkelgelb
+	illum 3
+	map_Kd textures/pzkpfw_vi_ausf_e_tiger_turret_c.dds
+	map_bump textures/pzkpfw_vi_ausf_e_tiger_turret_n.dds
+newmtl pzkpfw_vi_ausf_e_tiger_body
+	illum 3
+	map_Kd textures/pzkpfw_vi_ausf_e_tiger_body_c.dds
+	map_bump textures/pzkpfw_vi_ausf_e_tiger_body_n.dds
+newmtl net_f
+	illum 3
+	map_Kd textures/net_f_c.dds
+	map_bump textures/net_f_n.dds
+newmtl pzkpfw_vi_ausf_e_tiger_gun_ger_camo_dunkelgelb
+	illum 3
+	map_Kd textures/pzkpfw_vi_ausf_e_tiger_gun_c.dds
+	map_bump textures/pzkpfw_vi_ausf_e_tiger_gun_n.dds
+newmtl fliegerbeschussgerat_41_ger_camo_dunkelgelb
+	illum 3
+	map_Kd textures/fliegerbeschussgerat_41_c.dds
+	map_bump textures/fliegerbeschussgerat_41_n.dds
+newmtl mg_browning_m2hb_ammo
+	illum 3
+	map_Kd textures/mg_browning_m2hb_ammo_c.dds
+	map_bump textures/mg_browning_m2hb_ammo_n.dds
+newmtl ger_pzkpfw_vi_ausf_h1_tiger_track
+	illum 3
+	map_Kd textures/ger_pzkpfw_vi_ausf_h1_tiger_track_c.dds
+	map_bump textures/ger_pzkpfw_vi_ausf_h1_tiger_track_n.dds
+newmtl pzkpfw_vi_ausf_e_tiger_body_ger_camo_dunkelgelb
+	illum 3
+	map_Kd textures/pzkpfw_vi_ausf_e_tiger_body_c.dds
+	map_bump textures/pzkpfw_vi_ausf_e_tiger_body_n.dds
+newmtl ger_pzkpfw_vi_ausf_h1_tiger_track
+	illum 3
+	map_Kd textures/ger_pzkpfw_vi_ausf_h1_tiger_track_c.dds
+	map_bump textures/ger_pzkpfw_vi_ausf_h1_tiger_track_n.dds
+newmtl ger_pzkpfw_vi_ausf_h1_tiger_track
+	illum 3
+	map_Kd textures/ger_pzkpfw_vi_ausf_h1_tiger_track_c.dds
+	map_bump textures/ger_pzkpfw_vi_ausf_h1_tiger_track_n.dds
